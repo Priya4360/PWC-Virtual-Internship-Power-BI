@@ -19,9 +19,18 @@ To download the .pbix files, navigate to the folder in this repository where the
 ### Call Centre Trends
 The first dashboard provides a comprehensive view of call centre metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call centre operations.
 
+![Call Centre Trends-1](https://github.com/user-attachments/assets/2732e5c1-7d35-4373-a9a6-2ca6c0634a50)
+
 ### Customer Retention
 This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
+
+![Customer Churn and Risk Analysis-1](https://github.com/user-attachments/assets/d63e9271-71e3-4107-ae61-60ca249847c1)
+
+![Customer Churn and Risk Analysis-2](https://github.com/user-attachments/assets/980f41c4-a34c-4936-935f-f23b5cdf20fd)
 
 ### Diversity & Inclusion
 Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
+![Diversity   Inclusion-1](https://github.com/user-attachments/assets/07940c8a-223b-452a-a706-af450aa296d1)
+
+![Diversity   Inclusion-2](https://github.com/user-attachments/assets/b3438b3e-7928-4061-9299-ad76b3358721)
