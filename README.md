@@ -1,7 +1,7 @@
 # PWC-Virtual-Internship-Power-BI
 #### Task 1 - https://app.powerbi.com/groups/me/reports/3eca94a0-1776-4460-a048-bea6a7155861/ReportSection17cf780c00798570069c?experience=power-bi
 #### Task 2 - https://app.powerbi.com/groups/me/reports/16039d78-7725-4f15-bd2c-1cb80b55c0ad/ReportSectioncda71881a0d1ca3dc6db?experience=power-bi
-#### Task 3 - https://app.powerbi.com/groups/me/reports/2e35abe8-ce3a-4b0d-b868-eef01c696267/ReportSection86bc6606665a843d3599?experience=power-bi
+#### Task 3 - https://app.powerbi.com/groups/me/reports/3f137b85-560a-40e8-9f5c-1a15510f0901/ReportSectionf8ffb57f4a7532cbe9a1?experience=power-bi
 ## Project Overview
 This project is part of the PwC Switzerland Power BI in Data Analytics Virtual Case Experience, demonstrating the application of digital tools in data visualization, automation, data cleansing, and more to address common business challenges. It features a series of Power BI dashboards focusing on Call Centre Trends, Customer Retention, and Diversity & Inclusion. Each dashboard provides actionable insights into different facets of business operations and strategic planning, aiding PwC Switzerland and its clients in enhancing operational efficiency, fostering customer loyalty, and promoting a more inclusive workplace.
 
